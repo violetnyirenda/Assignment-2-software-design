@@ -27,15 +27,11 @@ This system was refactored to adhere to the following software design principles
 
 ## How to Run
 
-1. **Clone the repository:**
-
-   git clone https://github.com/yourusername/student-management-system.git
-
-2. **Navigate to the project directory:**
+1. **Navigate to the project directory:**
    cd student-management-system
 
-3. **Run the system:**
+2. **Run the system:**
    python student_management_system.py
 
-4. **Follow the menu prompts:** 
+3. **Follow the menu prompts:** 
    The system will display a menu with options to add, delete, update, and view students.
